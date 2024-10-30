@@ -41,6 +41,7 @@ Ensure the following are installed on your system:
    ```bash
    git clone https://github.com/your-username/product_catalog.git
    cd product_catalog
+   
 2. **Install dependencies: Add the HTTP package to your pubspec.yaml file**:
    ```bash
    dependencies:
@@ -51,7 +52,7 @@ Ensure the following are installed on your system:
   **Then install the dependencies**:
   ```bash
    flutter pub get
-```
+  ```
 
 3. **Directory Structure Create the following directory structure under lib/**:
    ```bash
