@@ -105,6 +105,11 @@ If you're new to Flutter, here are some resources to help you get started:
 - [Flutter Cookbook - Useful Flutter samples](https://docs.flutter.dev/cookbook)
 - [Flutter Documentation](https://docs.flutter.dev/)
 
+## Stay Connected
+
+Happy coding!
+
+- [Watch More Tutorials](https://www.youtube.com/@CodeShowLapZ)
 
 
    
